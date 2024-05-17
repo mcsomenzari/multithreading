@@ -1,4 +1,4 @@
-# fullcycle-multithread
+# fullcycle-multithreading
 Multithreading
 
 ## Desafio
